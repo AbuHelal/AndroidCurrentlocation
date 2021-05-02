@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCurrentlocation</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="_0_0">0.0</string>
+    <string name="get_location">Get Location</string>
+    <string name="reset">Reset</string>
+</resources>
